@@ -29,13 +29,12 @@ class Yelp
 	def paginacija
 		get_data
 
-		while page.has_selector?('a.page-option.prev-next')
-			find('a.page-option.prev-next').click
+		while page.has_selector?('.pagination-links > li > a', text: '→')
+			find('.pagination-links > li > a', text: '→').click
+			sleep 3
 			get_data
 		end
-
 	end
-
 end
 
 yelp = Yelp.new
