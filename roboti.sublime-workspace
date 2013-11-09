@@ -1,0 +1,206 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padi",
+				"padding-left"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"text",
+				"text2"
+			],
+			[
+				"tex",
+				"text1"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Aleksandar/roboti/konstruktor.rb",
+		"/C/Users/Aleksandar/Desktop/ruby_vezba/excel.rb",
+		"/C/Users/Aleksandar/Desktop/ruby_vezba/upis_u_excel.rb",
+		"/C/Users/Aleksandar/roboti/yelp.rb",
+		"/C/Users/Aleksandar/Desktop/ruby_roboti/yelp/yelp.rb",
+		"/C/Users/Aleksandar/roboti/yelp/facebook_loger.rb",
+		"/C/Users/Aleksandar/Desktop/ruby_roboti/yelp/facebook_loger.rb",
+		"/C/Users/Aleksandar/seniorplus.rs/konacna_verzija/index.html",
+		"/C/Users/Aleksandar/seniorplus.rs/konacna_verzija/eng-index.html",
+		"/C/Users/Aleksandar/seniorplus.rs/konacna_verzija/ger-index.html",
+		"/C/Users/Aleksandar/blog/app/views/clanaks/index.html.erb",
+		"/C/Users/Aleksandar/Desktop/ruby_vezba/robot.rb",
+		"/C/Users/Aleksandar/seniorplus.rs/konacna_verzija/aktuelnosti-staracki-dom.html",
+		"/C/Users/Aleksandar/seniorplus.rs/konacna_verzija/index1.html",
+		"/C/Users/Aleksandar/Desktop/ruby_vezba/proba.rb",
+		"/C/Users/Aleksandar/seniorplus.rs/konacna_verzija/seniorplus.css",
+		"/C/Users/Aleksandar/Desktop/ruby_vezba/zdravo_svete.rb",
+		"/C/Users/Aleksandar/seniorplus.rs/konacna_verzija/kontakt.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"puts",
+			"print_data",
+			"red",
+			"return",
+			"mapa"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "roboti.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Aleksandar\\Desktop\\sublime-projecti\\seniorplus.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 134.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
