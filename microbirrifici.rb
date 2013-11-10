@@ -54,7 +54,7 @@ class Microbirrifici
   def collect_page_data(url)
     visit url
     puts "Processing #{url}....."
-    @radni_list[@red, 0]  = find_by_xpath('//span[@id="lblNomeProd"]')
+    @radni_list[@red, 0]  = find_by_xpath('//td/span[@id="lblNomeProd"]')
     @radni_list[@red, 1]  = find_by_xpath('//span[@id="lblTipologia"]')
     @radni_list[@red, 2]  = find_by_xpath('//span[@id="lblIndirizzo"]')
     @radni_list[@red, 3]  = find_by_xpath('//span[@id="lblLocalita"]')
@@ -84,5 +84,9 @@ class Microbirrifici
   end
 end
 
+pocetak = Time.now
 microbirrifici = Microbirrifici.new
 microbirrifici.go
+kraj = Time.now
+proteklo_vreme = Time.at((kraj - pocetak).to_i).gmtime.strftime('%R:%S')
+puts "Завршено за #{proteklo_vreme}!"
