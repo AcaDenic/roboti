@@ -17,7 +17,7 @@ class Realestate
 
 	def go
 		poseti_linkove
-		sacuvaj_podatke
+		
 	end
 
 	def poseti_linkove
@@ -31,6 +31,7 @@ class Realestate
 
 		linkovi.each do |link|
 			visit link
+			puts find().text
 		end
 	end
 
