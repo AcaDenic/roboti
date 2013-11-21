@@ -31,8 +31,9 @@ class Realestate
 
 		linkovi.each do |link|
 			visit link
-			puts find().text
+			sacuvaj_podatke
 		end
+		@excel.write "realestate.xls"
 	end
 
 	def sacuvaj_podatke
@@ -41,7 +42,6 @@ class Realestate
 			@radni_list[@red, 0] = podatak.find("./div[@class='agentContactInfo']/p[@class='agentName']/strong").text
 			@red = @red + 1
 		end
-		@excel.write "realestate.xls"
 	end
 
 end
